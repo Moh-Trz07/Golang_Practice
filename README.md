@@ -12,7 +12,7 @@ A comprehensive collection of Go programming examples for beginners and intermed
 git clone https://github.com/Moh-Trz07/Golang.git
 
 # Navigate to a topic
-cd Golang/folder_name
+cd Golang_Practice/folder_name
 
 # Run the example
 go run main.go
